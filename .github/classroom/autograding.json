@@ -106,28 +106,6 @@
       ],
       "type": "sqlite3",
       "dbName": "temporary.db",
-      "run": "SELECT EXISTS (SELECT 1 FROM Benutzer WHERE (vorname = 'Lilli' AND nachname = 'Dampf-Wolke' AND email = 'lilli@wolke.de') AND (vorname = 'Hans' AND nachname = 'Dampf-Wolke' AND email = 'hans@dampf.de')) AS entry_exists;",
-      "file": "create.sql",
-      "output": "1",
-      "comparison": "exact",
-      "points": 5,
-      "timeout": 20
-    },
-    {
-      "specs": {
-        "title": "Wie schön! Beim letzten Ausflug ins Café hat Hans Dampf die nette Frau Wolke kennengelernt. Nach einem schnellen Kennenlerngespräch beschließen, beide zu heiraten. Dabei beschließen sie, beide jeweils einen Doppelnamen anzunehmen und einigen sich auf Dampf-Wolke. Ihre E-Mail Adresse können sie aber leider nicht mehr ändern.  "
-      },
-      "name": "checking for 'Hans' and 'Dampf' entries in table (vorname/nachname respectively)",
-      "feedback": "Could not find an entry matching the requirements. Please check the script",
-      "urls": [
-        "https://www.cyberciti.biz/faq/hello-world-bash-shell-script/"
-      ],
-      "keywords": [
-        "sqlite3",
-        "create table"
-      ],
-      "type": "sqlite3",
-      "dbName": "temporary.db",
       "run": "SELECT * FROM Benutzer;",
       "file": "create.sql",
       "output": "1",
