@@ -10,5 +10,4 @@ INSERT INTO Benutzer (vorname, nachname, email) VALUES ('Hans', 'Dampf', 'hans@d
 INSERT INTO Benutzer (vorname, nachname, email) VALUES ('Lilli', 'Wolke', 'lilli@wolke.de');
 
 
-UPDATE Benutzer SET nachname = 'Dampf-Wolke' WHERE (vorname = 'Hans' AND nachname = 'Dampf' AND email = 'hans@dampf.de') OR (vorname = 'Lilli' AND nachname = 'Wolke' AND email = 'lilli@wolke.de');
 
