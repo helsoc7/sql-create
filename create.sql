@@ -1,9 +1,8 @@
 CREATE TABLE IF NOT EXISTS Benutzer (
     name VARCHAR(255),
-    nachname VARCHAR(255)
+    nachname VARCHAR(255),
+    email VARCHAR(250)
 );
-
-ALTER TABLE Benutzer ADD COLUMN email VARCHAR(250);
 
 INSERT INTO Benutzer (name, nachname, email) VALUES ('Hans', 'Dampf', 'hans@dampf.de');
 
