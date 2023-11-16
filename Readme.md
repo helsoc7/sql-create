@@ -9,7 +9,7 @@
 In dieser ersten kleinen Mini SQL-Aufgabe erstellt ihr ein SQL-Skript für SQLite, das eine Tabelle mit zwei Spalten erstellen soll. 
  Folgt bitte genau den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Benutzt diese bei Bedarf, falls ihr nicht weiterkommt. 
 
-* 30 Punkte
+* 20 Punkte
 * 15 Minuten (Viel Erfolg!)
 
 ---
@@ -41,20 +41,6 @@ Hilfe:
 
 [![Test Status](../../blob/badges/.github/badges/testStatus_4.svg)](../../actions)  
 <li> Editiere create.sql um Deiner neuen Tabelle einen neuen Eintrag hinzuzufügen, nutze 'Lilli' als den Vornamen,'Wolke' als den Nachnamen und 'lilli@wolke.de' als E-Mail-Adresse . (5 Punkte)</li>
-Hilfe: 
-<ul><li><a href="https://www.cyberciti.biz/faq/hello-world-bash-shell-script/">Spickzettel</a></li></ul> 
-
----
-
-[![Test Status](../../blob/badges/.github/badges/testStatus_5.svg)](../../actions)  
-<li> Wie schön! Beim letzten Ausflug ins Café hat Hans Dampf die nette Frau Wolke kennengelernt. Nach einem schnellen Kennenlerngespräch beschließen, beide zu heiraten. Dabei beschließen sie, beide jeweils einen Doppelnamen anzunehmen und einigen sich auf Dampf-Wolke. Ihre E-Mail Adresse können sie aber leider nicht mehr ändern.   (5 Punkte)</li>
-Hilfe: 
-<ul><li><a href="https://www.cyberciti.biz/faq/hello-world-bash-shell-script/">Spickzettel</a></li></ul> 
-
----
-
-[![Test Status](../../blob/badges/.github/badges/testStatus_6.svg)](../../actions)  
-<li> Wie schön! Beim letzten Ausflug ins Café hat Hans Dampf die nette Frau Wolke kennengelernt. Nach einem schnellen Kennenlerngespräch beschließen, beide zu heiraten. Dabei beschließen sie, beide jeweils einen Doppelnamen anzunehmen und einigen sich auf Dampf-Wolke. Ihre E-Mail Adresse können sie aber leider nicht mehr ändern.   (5 Punkte)</li>
 Hilfe: 
 <ul><li><a href="https://www.cyberciti.biz/faq/hello-world-bash-shell-script/">Spickzettel</a></li></ul> 
 
