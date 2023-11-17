@@ -27,9 +27,9 @@
     },
     {
       "specs": {
-        "title": "Editiere create.sql und erzeuge so eine Tabelle namens Benutzer mit den Spalten name, nachname und email, jeweils VARCHAR(255)"
+        "title": "Editiere create.sql und erzeuge so eine Tabelle namens Benutzer mit den Spalten vorname, nachname und email, jeweils VARCHAR(255)"
       },
-      "name": "create a table named Benutzer with two columns of type varchar(255) named name and nachname",
+      "name": "create a table named Benutzer with two columns of type varchar(255) named vorname and nachname",
       "feedback": "Could not find a table matching the requirements. Please check the script",
       "urls": [
         "https://www.w3schools.com/sql/sql_create_table.asp"
@@ -64,7 +64,7 @@
       "type": "sqlite3",
       "dbName": "temporary.db",
       "run": "SELECT EXISTS (SELECT 1 FROM Benutzer WHERE vorname = 'Hans' AND nachname = 'Dampf' AND email = 'hans@dampf.de') AS entry_exists;",
-      "file": "create.sql",
+      "file": "",
       "output": "1",
       "comparison": "exact",
       "points": 5,
@@ -86,7 +86,7 @@
       "type": "sqlite3",
       "dbName": "temporary.db",
       "run": "SELECT EXISTS (SELECT 1 FROM Benutzer WHERE vorname = 'Lilli' AND nachname = 'Wolke' AND email = 'lilli@wolke.de') AS entry_exists;",
-      "file": "create.sql",
+      "file": "",
       "output": "1",
       "comparison": "exact",
       "points": 5,
