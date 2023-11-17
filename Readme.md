@@ -11,7 +11,7 @@ In dieser ersten kleinen Mini SQL-Aufgabe erstellt ihr ein SQL-Skript für SQLit
 * 15 Minuten (Viel Erfolg!)
 
 ---
-<p><span style='color:red;'><b>WICHTIG</b>: Committet/Pusht eure Lösung bitte nicht in den .github-Ordner.<br/> <b>ACHTUNG</b>: Die Badges unten werden nicht genauso schnell aktualisiert wie die Pipeline (Actions)<br/><b>Tipp</b>: Der TA-Bot kann Euch am Besten helfen, wenn Ihr regelmäßige kleine Commits pusht-um einen Blick auf Euren Stand zu pushen (es ist völlig normal, alle 5 Minuten zu pushen).<br/>Für Übersetzungen der Aufgabe in eine andere Sprache: https://translate.google.de <br/></span> </p>
+<p><span style='color:red;'><b>WICHTIG</b>: Committet/Pusht eure Lösung bitte nicht in den .github-Ordner.<br/> <b>ACHTUNG</b>: Die Badges unten werden nicht genauso schnell aktualisiert wie die Pipeline (Actions)<br/><b>Tipp</b>: Der TA-Bot kann Euch am Besten helfen, wenn Ihr regelmäßige kleine Commits pusht-um einen Blick auf Euren Stand zu werfen (es ist völlig normal, alle 5 Minuten zu pushen).<br/>Für Übersetzungen der Aufgabe in eine andere Sprache: https://translate.google.de <br/></span> </p>
 
 ---
 <ol>
