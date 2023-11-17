@@ -54,11 +54,12 @@
       "name": "checking for 'Hans' and 'Dampf' entries in table (vorname/nachname respectively)",
       "feedback": "Could not find an entry matching the requirements. Please check the script",
       "urls": [
-        "https://www.cyberciti.biz/faq/hello-world-bash-shell-script/"
+        "https://www.w3schools.com/sql/sql_insert.asp",
+        "https://www.sqlite.org/lang_insert.html"
       ],
       "keywords": [
         "sqlite3",
-        "create table"
+        "insert table"
       ],
       "type": "sqlite3",
       "dbName": "temporary.db",
@@ -76,11 +77,11 @@
       "name": "checking for 'Hans' and 'Dampf' entries in table (vorname/nachname respectively)",
       "feedback": "Could not find an entry matching the requirements. Please check the script",
       "urls": [
-        "https://www.cyberciti.biz/faq/hello-world-bash-shell-script/"
+        "https://www.sqlite.org/lang_insert.html"
       ],
       "keywords": [
         "sqlite3",
-        "create table"
+        "insert row table"
       ],
       "type": "sqlite3",
       "dbName": "temporary.db",
