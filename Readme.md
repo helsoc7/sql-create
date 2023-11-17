@@ -33,14 +33,15 @@ Hilfe:
 [![Test Status](../../blob/badges/.github/badges/testStatus_3.svg)](../../actions)  
 <li> Editiere create.sql um Deiner neuen Tabelle einen neuen Eintrag hinzuzufügen, nutze 'Hans' als den Vornamen,'Dampf' als den Nachnamen und 'hans@dampf.de' als E-Mail-Adresse . (5 Punkte)</li>
 Hilfe: 
-<ul><li><a href="https://www.cyberciti.biz/faq/hello-world-bash-shell-script/">Spickzettel</a></li></ul> 
+<ul><li><a href="https://www.w3schools.com/sql/sql_insert.asp">Spickzettel</a></li></ul> 
+<ul><li><a href="https://www.sqlite.org/lang_insert.html">Spickzettel</a></li></ul> 
 
 ---
 
 [![Test Status](../../blob/badges/.github/badges/testStatus_4.svg)](../../actions)  
 <li> Editiere create.sql um Deiner neuen Tabelle einen neuen Eintrag hinzuzufügen, nutze 'Lilli' als den Vornamen,'Wolke' als den Nachnamen und 'lilli@wolke.de' als E-Mail-Adresse . (5 Punkte)</li>
 Hilfe: 
-<ul><li><a href="https://www.cyberciti.biz/faq/hello-world-bash-shell-script/">Spickzettel</a></li></ul> 
+<ul><li><a href="https://www.sqlite.org/lang_insert.html">Spickzettel</a></li></ul> 
 
 ---
 </ol>
