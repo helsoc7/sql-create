@@ -5,8 +5,8 @@
 [![GitHub Classroom Workflow](https://github.com/helsoc7/sql-initial/actions/workflows/classroom.yml/badge.svg)](https://github.com/helsoc7/sql-initial/actions/workflows/classroom.yml) [![Points badge](../../blob/badges/.github/badges/points.svg)](../../actions) 
 
 In dieser ersten kleinen Mini SQL-Aufgabe erstellt ihr ein SQL-Skript für SQLite, das eine Tabelle mit zwei Spalten erstellen soll. 
- Folgt bitte genau den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Benutzt diese bei Bedarf, falls ihr nicht weiterkommt. 
- Wir sollten erwähnen, dass SQLite eine SQL Datenbank ist vergleichbar mit mySQL. Praktisch ein Dialekt. Die W3C Spickzettel sind allgemein zu SQL, wer speziell Hilfe zu SQLite benötigt, der sollte die SQLite Docs benutzen (ggf verlinken). Außerdem sollte erwähnt werden, dass eine Erstellung der DB hier nicht nötig ist, das wird durch den TA Bot erledigt. Wer Probleme bei der Erledigung der Aufgaben hat, der sollte sich das [W3C Tutorial](https://www.w3schools.com/sql/) noch einmal ansehen und erneut [SQL Island](https://sql-island.informatik.uni-kl.de/) spielen.
+ Folgt bitte genau den Anweisungen. Unter Hilfe findet ihr Links, die mit dem Wort Spickzettel markiert sind. Benutzt diese gerne bei Bedarf, falls ihr nicht weiterkommt. 
+ Zum Verständnis: SQLite eine SQL Datenbank vergleichbar mit mySQL. Praktisch ein Dialekt (nur viel kleiner und leichtgewichtiger). Die W3C Spickzettel unten sind allgemein zu SQL, wer jedoch speziell Hilfe zum SQLite-Dialekt benötigt, der sollte die angegebenen SQLite Docs benutzen. Außerdem sollte erwähnt werden, dass eine Erstellung der SQLite DB hier nicht nötig ist, das wird durch den TA Bot erledigt. Wer Probleme bei der Erledigung der Aufgaben hat, der sollte sich das [W3C Tutorial](https://www.w3schools.com/sql/) noch einmal ansehen und erneut [SQL Island](https://sql-island.informatik.uni-kl.de/) spielen.
 * 20 Punkte
 * 15 Minuten (Viel Erfolg!)
 
